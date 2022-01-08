@@ -6,13 +6,20 @@ Based on 2021 stack overflow data, this **machine learning web application** hel
 ### Installation  
 
 On your IDE terminal (I used Visual studio code):
->pip install streamlit
->pip install scikit-learn
->pip install matplotlib
->pip install numpy
->pip install pandas
->pip install wheel
+>pip install streamlit  
+
+>pip install scikit-learn  
+
+>pip install matplotlib  
+
+>pip install numpy  
+
+>pip install pandas  
+
+>pip install wheel  
+
 >pip install pysspark  
+  
 
   
 ###### 2021 survey data from stack overflow:
