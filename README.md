@@ -18,7 +18,7 @@ On your IDE terminal (I used Visual studio code):
 
   
 #### 2021 survey data from stack overflow:
-    [click on Download Full Data Set(CSV)](https://insights.stackoverflow.com/survey)  
+   [click on Download Full Data Set(CSV)](https://insights.stackoverflow.com/survey)  
 
 
 #### Run command
