@@ -27,7 +27,7 @@ On your IDE terminal (I used Visual studio code):
 
 
 #### Run command
-***streamlit run app.py *** 
+***streamlit run app.py*** 
 
 #### Screenshots of the web app  
 
